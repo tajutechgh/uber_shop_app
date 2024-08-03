@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228019481774",
+    "project_id": "uber-shop-app-c3ca9",
+    "storage_bucket": "uber-shop-app-c3ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228019481774:android:ebadd32d66387228dc913f",
+        "android_client_info": {
+          "package_name": "com.tajutechgh.uber_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmK2G9eiOpdXrNmCYwQfqAzVOn8n2KQzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228019481774:android:d71f911db178890bdc913f",
+        "android_client_info": {
+          "package_name": "com.tajutechgh.vendor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmK2G9eiOpdXrNmCYwQfqAzVOn8n2KQzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

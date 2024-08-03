@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-0 /Applications/Dev/flutter/uber_shop_app/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-1 /Applications/Dev/flutter/uber_shop_app/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-2 /Applications/Dev/flutter/uber_shop_app/build/flutter_plugin_android_lifecycle/generated/res/rs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-3 /Applications/Dev/flutter/uber_shop_app/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-4 /Applications/Dev/flutter/uber_shop_app/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-5 /Applications/Dev/flutter/uber_shop_app/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-6 /Users/mohammedabdul-aziz/.gradle/caches/transforms-3/0c0eaecc242da64c799d0d0a1fcd3678/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-7 /Users/mohammedabdul-aziz/.gradle/caches/transforms-3/1b0e145fff639ee8b29e15ef3a61f20c/transformed/core-1.6.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-8 /Users/mohammedabdul-aziz/.gradle/caches/transforms-3/1cb31ce0faa211e8ffb5b059112bd62f/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-9 /Users/mohammedabdul-aziz/.gradle/caches/transforms-3/f91d4f6283ab49f4a2d7d4553a8cc5f5/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-10 /Users/mohammedabdul-aziz/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.20/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-11 /Users/mohammedabdul-aziz/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.20/android/src/release/res

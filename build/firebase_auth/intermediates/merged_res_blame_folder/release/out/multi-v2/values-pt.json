@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-2:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/mohammedabdul-aziz/.gradle/caches/transforms-3/f0589c8f8a850193b7b074d5d495f01a/transformed/jetified-credentials-1.2.0-rc01/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,164",
+                        "endColumns": "108,121",
+                        "endOffsets": "159,281"
+                    }
+                },
+                {
+                    "source": "/Users/mohammedabdul-aziz/.gradle/caches/transforms-3/1b0e145fff639ee8b29e15ef3a61f20c/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "718",
+                        "endColumns": "100",
+                        "endOffsets": "814"
+                    }
+                },
+                {
+                    "source": "/Users/mohammedabdul-aziz/.gradle/caches/transforms-3/4b9f9da1136655c4f383c595760fabba/transformed/browser-1.4.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "286,401,500,612",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "396,495,607,713"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.firebase.auth.firebase_auth-merged_res-4:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/mohammedabdul-aziz/.gradle/caches/transforms-3/f0589c8f8a850193b7b074d5d495f01a/transformed/jetified-credentials-1.2.0-rc01/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,164",
+                        "endColumns": "108,121",
+                        "endOffsets": "159,281"
+                    }
+                },
+                {
+                    "source": "/Users/mohammedabdul-aziz/.gradle/caches/transforms-3/1b0e145fff639ee8b29e15ef3a61f20c/transformed/core-1.6.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "718",
+                        "endColumns": "100",
+                        "endOffsets": "814"
+                    }
+                },
+                {
+                    "source": "/Users/mohammedabdul-aziz/.gradle/caches/transforms-3/4b9f9da1136655c4f383c595760fabba/transformed/browser-1.4.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "286,401,500,612",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "396,495,607,713"
+                    }
+                }
+            ]
+        }
+    ]
+}
